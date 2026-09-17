@@ -1,0 +1,9 @@
+isolation_forest:
+  contamination: 0.05
+  n_estimators: 100
+  random_state: 42
+
+zscore:
+  threshold: 3.0
+
+output_dir: models/

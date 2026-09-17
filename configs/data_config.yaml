@@ -1,0 +1,14 @@
+required_columns:
+  - game_id
+  - draw_id
+  - machine_id
+  - ball_set_id
+  - venue_id
+  - draw_local_datetime
+  - temperature_c
+
+datetime_columns:
+  - draw_local_datetime
+
+train_end_date: '2023-06-30'
+val_end_date: '2023-12-31'

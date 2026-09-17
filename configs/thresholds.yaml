@@ -1,0 +1,6 @@
+anomaly_score_threshold: 0.5
+
+risk_categories:
+  low: 0.3
+  medium: 0.6
+  high: 1.0
